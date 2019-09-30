@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.swedbank.decathlon.result.calculator.services.DecathlonResultCalculatorServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-29T15:46:39" hostname="SEPUTISK2" time="0.015">
+  <properties/>
+  <testcase name="calculateResults_requestedDataWithSeveralEqualScores_calculatedResultsReturned" classname="com.swedbank.decathlon.result.calculator.services.DecathlonResultCalculatorServiceTest" time="0.013"/>
+  <testcase name="calculateResults_requestedDataWithThreeEqualScores_calculatedResultsReturned" classname="com.swedbank.decathlon.result.calculator.services.DecathlonResultCalculatorServiceTest" time="0.0"/>
+  <testcase name="calculateResults_requestedDataWithoutEqualScores_calculatedResultsReturned" classname="com.swedbank.decathlon.result.calculator.services.DecathlonResultCalculatorServiceTest" time="0.001"/>
+  <testcase name="calculateResults_requestedDataWithTwoEqualScores_calculatedResultsReturned" classname="com.swedbank.decathlon.result.calculator.services.DecathlonResultCalculatorServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
